@@ -16,9 +16,9 @@ label.setMovie(movie);
 movie->start();
 */
 
-    QMovie *movie = new QMovie("C:/Users/jiang_000.JIANG_PC/Documents/Qt/mynotepad/face.gif");
-    ui->movieLabel->setMovie(movie);
-    movie->start();
+    //QMovie *movie = new QMovie("C:/Users/jiang_000.JIANG_PC/Documents/Qt/mynotepad/face.gif");
+    //ui->movieLabel->setMovie(movie);
+    //movie->start();
 }
 
 About::~About()

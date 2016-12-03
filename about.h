@@ -2,7 +2,7 @@
 #define ABOUT_H
 
 #include <QMainWindow>
-#include <Qmovie>
+//#include <Qmovie>
 
 namespace Ui {
 class About;

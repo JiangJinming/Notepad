@@ -6,5 +6,6 @@
         <file>ICON/redo.png</file>
         <file>ICON/undo.png</file>
         <file>ICON/background.jpg</file>
+        <file>ICON/Notepad.png</file>
     </qresource>
 </RCC>

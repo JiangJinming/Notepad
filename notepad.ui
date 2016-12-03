@@ -24,7 +24,7 @@
     <item>
      <widget class="QTextEdit" name="textEdit">
       <property name="styleSheet">
-       <string notr="true">border-image: url(:/new/icon/ICON/background.jpg);</string>
+       <string notr="true"/>
       </property>
      </widget>
     </item>
@@ -36,7 +36,7 @@
      <x>0</x>
      <y>0</y>
      <width>700</width>
-     <height>23</height>
+     <height>22</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile_F">
